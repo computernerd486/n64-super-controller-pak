@@ -22,4 +22,4 @@ Unlike the OEM pack which uses a battery management IC, it utilizes a transistor
 ### Timings
 THe write address access time, and write cycle time is longer than the OEM pak at 100nS
 
-![Timing Chart](timing.png)
+![Timing Chart](../images/original/preformance/timing.png)
