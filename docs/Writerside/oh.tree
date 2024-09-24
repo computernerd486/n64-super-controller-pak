@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="oh"
+                 name="Original Hardware"
+                 start-page="original-hardware.md">
+
+    <toc-element topic="original-hardware.md">
+        <toc-element topic="Preformance-Memory-Card.md"/>
+    </toc-element>
+    <toc-element topic="Nintendo.md"/>
+</instance-profile>
