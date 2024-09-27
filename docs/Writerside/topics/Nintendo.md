@@ -1,3 +1,0 @@
-# Nintendo Offical
-
-Start typing here...
