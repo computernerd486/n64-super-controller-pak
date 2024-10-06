@@ -33,7 +33,7 @@ Primary Blocks:
 - Bus : The connection to the controller
 
 ```mermaid
- block-beta
+block-beta
     columns 6
     ui[["Web Interface"]] space:5
     down1<[" "]>(y) space:5
@@ -64,7 +64,3 @@ Primary Blocks:
 
     bus --- c
 ```
-
-## References
-Open sourece is great becasue many people can come together to share knowlege, and as such, this is built on lots of information already discovered / built on by the community
-Links to follow

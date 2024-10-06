@@ -1,4 +1,4 @@
-# Nintento Controller Pak
+# Nintendo Controller Pak
 An original OEM controller Pak, this one which is used for writing this document was included with Dōbutsu no Mori (Animal Forest). 
 
 ### Board
