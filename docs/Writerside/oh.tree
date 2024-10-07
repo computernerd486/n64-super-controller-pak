@@ -10,7 +10,7 @@
     <toc-element topic="original-hardware.md">
         <toc-element topic="OEM-Controller-Pak.md"/>
         <toc-element topic="Preformance-Memory-Card.md"/>
-        <toc-element topic="3rd-Party-Clone.md"/>
+        <toc-element topic="mad-catz.md"/>
     </toc-element>
     <toc-element topic="Controller-Pinout.md"/>
     <toc-element topic="References.md"/>
