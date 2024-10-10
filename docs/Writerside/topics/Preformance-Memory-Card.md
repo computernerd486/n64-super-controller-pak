@@ -16,8 +16,8 @@ Unlike the OEM pack which uses a battery management IC, it utilizes a transistor
     32K X 8 CMOS Static RAM
 
 
-|![board_front.png](..%2Fimages%2Foriginal%2Fpreformance%2Fboard_front.png){ width=400 }|![board_back.png](..%2Fimages%2Foriginal%2Fpreformance%2Fboard_back.png){ width=400}|
-|---|---|
+| ![board_front.png](..%2Fimages%2Foriginal%2Fpreformance%2Fboard_front.png){ width=400 } | ![board_back.png](..%2Fimages%2Foriginal%2Fpreformance%2Fboard_back.png){ width=400} |
+|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 
 ### Timings
 THe write address access time, and write cycle time is longer than the OEM pak at 100nS

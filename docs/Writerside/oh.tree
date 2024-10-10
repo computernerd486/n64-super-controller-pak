@@ -12,6 +12,9 @@
         <toc-element topic="Preformance-Memory-Card.md"/>
         <toc-element topic="mad-catz.md"/>
     </toc-element>
+    <toc-element topic="Development.md">
+        <toc-element topic="Transfer-Pack-Breakout.md"/>
+    </toc-element>
     <toc-element topic="Controller-Pinout.md"/>
     <toc-element topic="References.md"/>
 </instance-profile>
