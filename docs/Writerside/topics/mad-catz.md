@@ -18,11 +18,11 @@ Similar to the performance memory card, it utilizes a transistor and some other 
     Ram chip: UTRON UT62256SC-35L
     32K X 8 Bit Low Power CMOS SRam
 
-| ![shell_front.png](..%2Fimages%2Foriginal%2F3rd-party%2Fshell_front.png) | ![shell_back.png](..%2Fimages%2Foriginal%2F3rd-party%2Fshell_back.png) |
-|--------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![board_front.png](..%2Fimages%2Foriginal%2F3rd-party%2Fboard_front.png) | ![board_back.png](..%2Fimages%2Foriginal%2F3rd-party%2Fboard_back.png) |
+| ![mc_shell_front.png](..%2Fimages%2Foriginal%2F3rd-party%2Fshell_front.png) | ![mc_shell_back.png](..%2Fimages%2Foriginal%2F3rd-party%2Fshell_back.png) |
+|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![mc_board_front.png](..%2Fimages%2Foriginal%2F3rd-party%2Fboard_front.png) | ![mc_board_back.png](..%2Fimages%2Foriginal%2F3rd-party%2Fboard_back.png) |
 
 ### Timings
 This is an upgrade over the other options, being the "-35" model, timings are at 35ns for most operations compared to 70ns.  
 
-![Timing Chart](../images/original/3rd-party/timing.png)
+![utron_timing chart](../images/original/3rd-party/timing.png)
