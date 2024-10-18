@@ -4,4 +4,6 @@ This is some reference documentation around the original hardware that was avail
 
 * [Nintendo Official Controller Pak](OEM-Controller-Pak.md)
 * [Performance Memory Card](Preformance-Memory-Card.md)
+* [Performance 32x Memory Card](Performance-32x-Memory-Card.md)
 * [Mad Catz / High Frequency](mad-catz.md)
+* [Mad Catz / High Frequency X16](Mad-Catz-X16.md)

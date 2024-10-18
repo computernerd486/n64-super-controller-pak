@@ -12,11 +12,11 @@ Unlike the OEM pack which uses a battery management IC, it utilizes a transistor
     Ram chip: Sharp LH52256CN-10LL
     32K X 8 CMOS Static RAM
 
-| ![oem_shell_front.png](..%2Fimages%2Foriginal%2Foem-animalforest%2Fshell_front.png) | ![oem_shell_back.png](..%2Fimages%2Foriginal%2Foem-animalforest%2Fshell_back.png) |
-|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| ![oem_board_front.png](..%2Fimages%2Foriginal%2Foem-animalforest%2Fboard_front.png) | ![oem_board_back.png](..%2Fimages%2Foriginal%2Foem-animalforest%2Fboard_back.png) |
+| ![oem_shell_front.png](n_shell_front.png) | ![oem_shell_back.png](n_shell_back.png) |
+|-------------------------------------------|-----------------------------------------|
+| ![oem_board_front.png](n_board_front.png) | ![oem_board_back.png](n_board_back.png) |
 
 ### Timings
 Access times for read/write cycle is 70 ns
 
-![sharp_timing chart](../images/original/oem-animalforest/timing.png)
+![sharp_timing chart](../images/original/oem-animalforest/sharp_timing.png)
